@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-parallax-phone2{
+    background-position: bottom left;
+    background-image: url('./assets/image/note12.jpg');
+  }
